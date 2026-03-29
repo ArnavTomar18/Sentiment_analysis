@@ -25,7 +25,5 @@ This project focuses on building a **Sentiment Analysis pipeline** that classifi
 Made with ❤️ by **Arnav Tomar**
 
 - 📧 [arnavtomar257@gmail.com](mailto:arnavtomar257@gmail.com)  
-- 🌐 [Portfolio Website]()  
-- 🐱 GitHub: [@ArnavTomar](https://github.com/sea-of-codes)
-
-
+- 🌐 [Portfolio Website](https://sentiment-intelligence-engine.vercel.app/)  
+- 🐱 GitHub: [@ArnavTomar18](https://github.com/Arnavtomar18)
